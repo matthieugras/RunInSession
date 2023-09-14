@@ -23,3 +23,7 @@ For instances when you prefer not to have a console attached to the new process,
 ## Additional notes
 
 Simple CMake compilation with MSVC compiler. All operational logic for the tool resides within the `main.cpp` file.
+
+## Demo
+
+[<img src="https://img.youtube.com/vi/TY-wocIDCCc/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/embed/TY-wocIDCCc)
