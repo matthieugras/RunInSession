@@ -26,7 +26,7 @@ Simple CMake compilation with MSVC compiler. All operational logic for the tool 
 
 ## Demos
 
-### Taking over a AD
+### Taking over AD
 [<img src="https://img.youtube.com/vi/TY-wocIDCCc/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/embed/TY-wocIDCCc)
 
 ### Opening a notepad.exe in the session of a logged-on user
